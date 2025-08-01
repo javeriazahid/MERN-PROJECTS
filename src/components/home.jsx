@@ -1,4 +1,4 @@
-// home.jsx
+
 import React from "react";
 
 const Home = ({ setPage }) => {

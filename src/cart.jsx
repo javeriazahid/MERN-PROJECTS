@@ -1,4 +1,4 @@
-// Cart.jsx
+
 import React from "react";
 
 function Cart({ cart, handleRemoveFromCart, handleSubmit }) {
